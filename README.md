@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Seek Travel Web Application
 Overview: Developed with one other software engineer a dynamic web application called "Seek Travel" with a user friendly GUI that lets users book existing hotels listed on the  website, as well as adding and managing their own hotels.	
 
@@ -15,3 +16,7 @@ Technical Overview:
 •	Utilized middleware,routing to help with clean and readable code.
 •	Applied comprehensive error handling to ensure application stability and a smooth user experience.
 •	Applied error handling to ensure application stability and a smooth user experience.
+=======
+# Seek-Travel
+Seek Travel Web Application Overview: Developed with one other software engineer a dynamic web application called "Seek Travel" with a user friendly GUI that lets users book existing hotels listed on the website, as well as adding and managing their own hotels.
+>>>>>>> e6642afdc34bf3b37529c5fe0db0bae2e52c3b4f
